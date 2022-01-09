@@ -1,3 +1,4 @@
 TotoIgnoruj.txt
+*.orig
 *.bak
 *.log
